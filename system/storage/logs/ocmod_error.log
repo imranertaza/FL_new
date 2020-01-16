@@ -1,0 +1,66 @@
+2020-01-15 13:44:42 - 
+
+MOD: So Social Login
+NOT FOUND!
+CODE: <div id="socialLogin"></div>
+FILE: catalog/view/theme/default/template/common/header.twig
+
+
+MOD: So Social Login
+NOT FOUND!
+CODE: <div id="socialLogin"></div>
+FILE: catalog/view/theme/so-mobile/template/common/header.twig
+
+
+MOD: So Color Swatch
+NOT FOUND!
+CODE: html += ' <td class="text-right"><input type="text" name="product_image[' + image_row + '][sort_order]" value="" placeholder="{{ entry_sort_order }}" class="form-control" /></td>';
+FILE: admin/view/template/catalog/product_form.twig
+
+
+MOD: So Color Swatch
+NOT FOUND!
+CODE: <img data-sizes="auto" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ product.thumb }}" title="{{ product.name }} " class="lazyload img-responsive" />
+FILE: catalog/view/theme/so-mobile/template/soconfig/listing.twig
+
+
+MOD: So Color Swatch
+NOT FOUND!
+CODE: <img data-sizes="auto" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ product.thumb }}" title="{{ product.name }} " class="lazyload img-responsive" />
+FILE: catalog/view/theme/so-revo/template/soconfig/listing.twig
+
+
+MOD: So Color Swatch
+NOT FOUND!
+CODE: <h3>{{ text_option }}</h3>
+FILE: catalog/view/theme/so-mobile/template/product/product.twig
+
+
+MOD: So Color Swatch
+NOT FOUND!
+CODE: 'product_id' => $product_info['product_id'],
+FILE: catalog/controller/extension/module/featured.php
+
+
+MOD: So Product Feature
+NOT FOUND!
+CODE: 'tag' => $result['tag']
+FILE: admin/model/catalog/product.php
+
+
+MOD: So Countdown Popup
+NOT FOUND!
+CODE: </footer>
+FILE: catalog/view/theme/so-mobile/template/common/footer.twig
+
+
+MOD: So Countdown Popup
+NOT FOUND!
+CODE: </footer>
+FILE: catalog/view/theme/so-revo/template/common/footer.twig
+
+
+MOD: Simple Blog
+NOT FOUND!
+CODE: $categories = $this->model_catalog_category->getCategories(0);
+FILE: catalog/controller/common/header.php
